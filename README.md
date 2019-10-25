@@ -13,7 +13,7 @@ _Presenter: Gunnar_
 * Using Google Colab
 * how to make Mardown slides with Jupyter Notebook  
 
-   [Link to Notebook](./Tutorial_howto.ipynb)
+   [Link to Notebook](./Tutorial_howto.ipynb) - Tutorial_howto.ipynb
 
 ### ML introduction 1
 _Presenter: Matt_  
