@@ -8,4 +8,4 @@ Based on [Goodfellow et al. (2015) "Deep Learning"](http://www.deeplearningbook.
 * see also [Numpy for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html)
 
 ## Syllabus
-# Introduction, organization and how-to
+### Introduction, organization and how-to
