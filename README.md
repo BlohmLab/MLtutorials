@@ -9,9 +9,15 @@ Based on [Goodfellow et al. (2015) "Deep Learning"](http://www.deeplearningbook.
 
 ## Syllabus
 ### Organization and how-to
-  _Presenter: Gunnar_  
-  Link to Notebook will come here...
+_Presenter: Gunnar_  
+* Using Google Colab
+* how to make Mardown slides with Jupyter Notebook
+   Link to Notebook will come here...
 
 ### ML introduction 1
-  _Presenter: Matt_  
-  Link to Notebook will com ehere...
+_Presenter: Matt_  
+* Learning algorithms
+* Capacity, overfitting, underfitting
+* Hyperparameters & validation sets
+* Estimators, bias, variance
+   Link to Notebook will com ehere...
