@@ -12,6 +12,7 @@ Based on [Goodfellow et al. (2015) "Deep Learning"](http://www.deeplearningbook.
 _Presenter: Gunnar_  
 * Using Google Colab
 * how to make Mardown slides with Jupyter Notebook  
+
    Link to Notebook will come here...
 
 ### ML introduction 1
@@ -20,4 +21,5 @@ _Presenter: Matt_
 * Capacity, overfitting, underfitting
 * Hyperparameters & validation sets
 * Estimators, bias, variance  
+
    Link to Notebook will com ehere...
