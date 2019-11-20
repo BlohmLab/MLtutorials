@@ -22,4 +22,4 @@ _Presenter: Matt_
 * Hyperparameters & validation sets
 * Estimators, bias, variance  
 
-   Link to Notebook will com ehere...
+   [Link to Notebook](./Introduction_Part1.ipynb)
