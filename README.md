@@ -23,3 +23,12 @@ _Presenter: Matt_
 * Estimators, bias, variance  
 
    [Link to Notebook](./Introduction_Part1.ipynb)
+
+### ML introduction 2
+_Presenter: Ben_  
+* Linear regression
+* Cost functions
+* Maximum likelihood estimation
+
+   [Link to Notebook](./Introduction_2_MLE_participant.ipynb)(w/ DIY exercises)
+   [Link to Notebook](./Introduction_2_MLE.ipynb)(w/ solutions)
