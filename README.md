@@ -8,29 +8,27 @@ Based on [Goodfellow et al. (2015) "Deep Learning"](http://www.deeplearningbook.
 * see also [Numpy for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html)
 
 ## Syllabus
-### Organization and how-to
+### Week 0 
 _Presenter: Gunnar_  
 * Using Google Colab
 * how to make Mardown slides with Jupyter Notebook  
+   [![Open Week 0 Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/week3/week0_setup.ipynb)
 
-   [Link to Notebook](./week0_setup.ipynb) 
 
-### ML introduction 1
+### Week 1 
 _Presenter: Matt_  
 * Learning algorithms
 * Capacity, overfitting, underfitting
 * Hyperparameters & validation sets
 * Estimators, bias, variance  
+   [![Open Week 1 Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/week3/week1.ipynb)
 
-   [Link to Notebook](./week1.ipynb)
 
-### ML introduction 2
+### Week 2 
 _Presenter: Ben_  
 * Linear regression
 * Cost functions
 * Maximum likelihood estimation
+   [![Open Week 2 Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/week3/week2.ipynb)
+   [![Open Week 2 Notebook In Colab (with solutions)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/week3/week2.ipynb)
 
-   [Link to Notebook](./week2_participant.ipynb)(w/ DIY exercises)  
-   [Link to Notebook](./week2.ipynb)(w/ solutions)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/week3/week2.ipynb)
