@@ -13,7 +13,7 @@ _Presenter: Gunnar_
 * Using Google Colab
 * how to make Mardown slides with Jupyter Notebook  
 
-   [Link to Notebook](./Tutorial_howto.ipynb) - Tutorial_howto.ipynb
+   [Link to Notebook](./week0.ipynb) 
 
 ### ML introduction 1
 _Presenter: Matt_  
@@ -22,7 +22,7 @@ _Presenter: Matt_
 * Hyperparameters & validation sets
 * Estimators, bias, variance  
 
-   [Link to Notebook](./Introduction_Part1.ipynb)
+   [Link to Notebook](./week1.ipynb)
 
 ### ML introduction 2
 _Presenter: Ben_  
@@ -30,5 +30,5 @@ _Presenter: Ben_
 * Cost functions
 * Maximum likelihood estimation
 
-   [Link to Notebook](./Introduction_2_MLE_participant.ipynb)(w/ DIY exercises)
-   [Link to Notebook](./Introduction_2_MLE.ipynb)(w/ solutions)
+   [Link to Notebook](./week2_participant.ipynb)(w/ DIY exercises)
+   [Link to Notebook](./week2.ipynb)(w/ solutions)
