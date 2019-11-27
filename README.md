@@ -32,3 +32,5 @@ _Presenter: Ben_
 
    [Link to Notebook](./week2_participant.ipynb)(w/ DIY exercises)  
    [Link to Notebook](./week2.ipynb)(w/ solutions)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/week3/week2.ipynb)
