@@ -47,3 +47,13 @@ _Presenter: Ben_
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week3_participant.ipynb)
    With solutions:
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week3.ipynb)
+   
+   
+### Week 4
+_Presenter: Matt_
+- Gradient descent
+   
+   Participant notebook:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week4_participant.ipynb)
+   With solutions:
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week4.ipynb)
