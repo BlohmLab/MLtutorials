@@ -4,7 +4,7 @@ Based on [Goodfellow et al. (2015) "Deep Learning"](http://www.deeplearningbook.
 
 ### Pre-requisites
 * Basic knowledge of Python - see [this course](https://www.coursera.org/learn/python-programming-introduction)
-* Basics of Linear Algebra, Probabilities / Statistics, and Optimization
+* Basics of Linear Algebra, and Probabilities / Statistics
 * see also [Numpy for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html)
 
 ## Syllabus
