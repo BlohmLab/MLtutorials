@@ -57,3 +57,13 @@ _Presenter: Matt_
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week4_participant.ipynb)
    With solutions:
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week4.ipynb)
+
+
+### Week 5
+_Presenter: Gunnar_
+- error backpropagation
+
+   Participant notebook:
+   ![Participant notebook](https://github.com/BlohmLab/MLtutorials/blob/master/DeepFFnets_participants.ipynb)
+   With solutions:
+   ![Participant notebook](https://github.com/BlohmLab/MLtutorials/blob/master/DeepFFnets.ipynb)
