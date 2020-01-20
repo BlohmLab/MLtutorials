@@ -45,6 +45,7 @@ _Presenter: Ben_
    
    Participant notebook:  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week3_participant.ipynb)
+   
    With solutions:
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week3.ipynb)
    
@@ -55,6 +56,7 @@ _Presenter: Matt_
    
    Participant notebook:  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week4_participant.ipynb)
+   
    With solutions:
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week4.ipynb)
 
@@ -65,5 +67,6 @@ _Presenter: Gunnar_
 
    Participant notebook:
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/DeepFFnets_participants.ipynb)
+    
    With solutions:
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/DeepFFnets.ipynb)
