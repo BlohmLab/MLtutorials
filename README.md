@@ -74,5 +74,9 @@ _Presenter: Gunnar_
 ### Week 6
 _Presenter: Ben_
 - Intro to PyTorch
+
    Participant notebook:  
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week6_participant.ipynb)
+
+   With solutions:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week6.ipynb)
