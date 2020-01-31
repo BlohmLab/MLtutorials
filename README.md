@@ -46,7 +46,7 @@ _Presenter: Ben_
    Participant notebook:  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week3_participant.ipynb)
    
-   With solutions:
+   With solutions:  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week3.ipynb)
    
    
@@ -57,16 +57,22 @@ _Presenter: Matt_
    Participant notebook:  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week4_participant.ipynb)
    
-   With solutions:
+   With solutions:  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week4.ipynb)
 
 
 ### Week 5
 _Presenter: Gunnar_
-- error backpropagation
+- Error Backpropagation
 
+   Participant notebook:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week5_participant.ipynb)
+   
+   With solutions:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week5.ipynb)
+
+### Week 6
+_Presenter: Ben_
+- Intro to PyTorch
    Participant notebook:
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/DeepFFnets_participants.ipynb)
-    
-   With solutions:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/DeepFFnets.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week6_participant.ipynb)
