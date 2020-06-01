@@ -80,3 +80,13 @@ _Presenter: Ben_
 
    With solutions:  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week6.ipynb)
+   
+### Week 7
+_Presenter: Ben_
+- Recurrent neural networks
+
+   Participant notebook:  
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week7_participant.ipynb)
+
+   With solutions:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week7.ipynb)
