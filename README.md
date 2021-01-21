@@ -90,3 +90,8 @@ _Presenter: Ben_
 
    Part 2:  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week7_part2.ipynb)
+
+### pandas + seaborn
+_Presenter: Ben_
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/pandas_intro.ipynb)
